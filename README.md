@@ -17,3 +17,4 @@ By default, we include some package for easy development and use.
 
 - [Debugbar](https://github.com/barryvdh/laravel-debugbar).
 - [Log Viewer](https://github.com/ARCANEDEV/LogViewer).
+- [Laravel Helper](https://github.com/laravel/helpers).
