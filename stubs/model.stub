@@ -26,6 +26,15 @@ class {{ class }} extends Model
     protected $hidden = [
         'id'
     ];
+
+    /**
+     * The attributes that should be cast to native types.
+     *
+     * @var array
+     */
+    protected $casts = [
+        // 
+    ];
     
     /**
      * Get the route key for the model.

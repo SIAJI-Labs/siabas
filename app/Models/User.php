@@ -28,6 +28,7 @@ class User extends Authenticatable
      * @var array
      */
     protected $hidden = [
+        'id',
         'password',
         'remember_token',
     ];
@@ -40,4 +41,42 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+
+    /**
+     * Get the route key for the model.
+     *
+     * @return string
+     */
+    public function getRouteKeyName()
+    {
+        return 'uuid';
+    }
+
+    /**
+     * Primary Key Relation
+     * 
+     * @return model
+     */
+
+    /**
+     * Foreign Key Relation
+     * 
+     * @return model
+     */
+
+    /**
+     * The "boot" method of the model.
+     *
+     * @return void
+     */
+    protected static function boot()
+    {
+        parent::boot();
+
+        // Listen to Create Event
+        static::creating(function ($model) {
+            // Always generate UUID on Data Create
+            $model->{'uuid'} = (string) \Str::uuid();
+        });
+    }
 }
