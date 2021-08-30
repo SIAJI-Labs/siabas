@@ -355,6 +355,28 @@ eval("/* module decorator */ module = __webpack_require__.nmd(module);\nvar __WE
 
 /***/ }),
 
+/***/ "./resources/assets/adminlte/plugins/datatables/bs4/css/datatables.bs4.scss":
+/*!**********************************************************************************!*\
+  !*** ./resources/assets/adminlte/plugins/datatables/bs4/css/datatables.bs4.scss ***!
+  \**********************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9yZXNvdXJjZXMvYXNzZXRzL2FkbWlubHRlL3BsdWdpbnMvZGF0YXRhYmxlcy9iczQvY3NzL2RhdGF0YWJsZXMuYnM0LnNjc3MuanMiLCJtYXBwaW5ncyI6IjtBQUFBIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vLy4vcmVzb3VyY2VzL2Fzc2V0cy9hZG1pbmx0ZS9wbHVnaW5zL2RhdGF0YWJsZXMvYnM0L2Nzcy9kYXRhdGFibGVzLmJzNC5zY3NzPzU0ZmEiXSwic291cmNlc0NvbnRlbnQiOlsiLy8gZXh0cmFjdGVkIGJ5IG1pbmktY3NzLWV4dHJhY3QtcGx1Z2luXG5leHBvcnQge307Il0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./resources/assets/adminlte/plugins/datatables/bs4/css/datatables.bs4.scss\n");
+
+/***/ }),
+
+/***/ "./resources/assets/adminlte/plugins/datatables/responsive/css/dataTables.responsive.scss":
+/*!************************************************************************************************!*\
+  !*** ./resources/assets/adminlte/plugins/datatables/responsive/css/dataTables.responsive.scss ***!
+  \************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9yZXNvdXJjZXMvYXNzZXRzL2FkbWlubHRlL3BsdWdpbnMvZGF0YXRhYmxlcy9yZXNwb25zaXZlL2Nzcy9kYXRhVGFibGVzLnJlc3BvbnNpdmUuc2Nzcy5qcyIsIm1hcHBpbmdzIjoiO0FBQUEiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvYXNzZXRzL2FkbWlubHRlL3BsdWdpbnMvZGF0YXRhYmxlcy9yZXNwb25zaXZlL2Nzcy9kYXRhVGFibGVzLnJlc3BvbnNpdmUuc2Nzcz8wZWMzIl0sInNvdXJjZXNDb250ZW50IjpbIi8vIGV4dHJhY3RlZCBieSBtaW5pLWNzcy1leHRyYWN0LXBsdWdpblxuZXhwb3J0IHt9OyJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./resources/assets/adminlte/plugins/datatables/responsive/css/dataTables.responsive.scss\n");
+
+/***/ }),
+
 /***/ "./resources/sass/app.scss":
 /*!*********************************!*\
   !*** ./resources/sass/app.scss ***!
@@ -363,6 +385,50 @@ eval("/* module decorator */ module = __webpack_require__.nmd(module);\nvar __WE
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9yZXNvdXJjZXMvc2Fzcy9hcHAuc2Nzcy5qcyIsIm1hcHBpbmdzIjoiO0FBQUEiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvc2Fzcy9hcHAuc2Nzcz80NzVmIl0sInNvdXJjZXNDb250ZW50IjpbIi8vIGV4dHJhY3RlZCBieSBtaW5pLWNzcy1leHRyYWN0LXBsdWdpblxuZXhwb3J0IHt9OyJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./resources/sass/app.scss\n");
+
+/***/ }),
+
+/***/ "./resources/assets/adminlte/css/app.scss":
+/*!************************************************!*\
+  !*** ./resources/assets/adminlte/css/app.scss ***!
+  \************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9yZXNvdXJjZXMvYXNzZXRzL2FkbWlubHRlL2Nzcy9hcHAuc2Nzcy5qcyIsIm1hcHBpbmdzIjoiO0FBQUEiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvYXNzZXRzL2FkbWlubHRlL2Nzcy9hcHAuc2Nzcz81ZGM0Il0sInNvdXJjZXNDb250ZW50IjpbIi8vIGV4dHJhY3RlZCBieSBtaW5pLWNzcy1leHRyYWN0LXBsdWdpblxuZXhwb3J0IHt9OyJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./resources/assets/adminlte/css/app.scss\n");
+
+/***/ }),
+
+/***/ "./resources/assets/adminlte/css/app-custom.scss":
+/*!*******************************************************!*\
+  !*** ./resources/assets/adminlte/css/app-custom.scss ***!
+  \*******************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9yZXNvdXJjZXMvYXNzZXRzL2FkbWlubHRlL2Nzcy9hcHAtY3VzdG9tLnNjc3MuanMiLCJtYXBwaW5ncyI6IjtBQUFBIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vLy4vcmVzb3VyY2VzL2Fzc2V0cy9hZG1pbmx0ZS9jc3MvYXBwLWN1c3RvbS5zY3NzPzdhNDkiXSwic291cmNlc0NvbnRlbnQiOlsiLy8gZXh0cmFjdGVkIGJ5IG1pbmktY3NzLWV4dHJhY3QtcGx1Z2luXG5leHBvcnQge307Il0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./resources/assets/adminlte/css/app-custom.scss\n");
+
+/***/ }),
+
+/***/ "./resources/assets/adminlte/plugins/sweetalert2/css/sweetalert2.scss":
+/*!****************************************************************************!*\
+  !*** ./resources/assets/adminlte/plugins/sweetalert2/css/sweetalert2.scss ***!
+  \****************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9yZXNvdXJjZXMvYXNzZXRzL2FkbWlubHRlL3BsdWdpbnMvc3dlZXRhbGVydDIvY3NzL3N3ZWV0YWxlcnQyLnNjc3MuanMiLCJtYXBwaW5ncyI6IjtBQUFBIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vLy4vcmVzb3VyY2VzL2Fzc2V0cy9hZG1pbmx0ZS9wbHVnaW5zL3N3ZWV0YWxlcnQyL2Nzcy9zd2VldGFsZXJ0Mi5zY3NzPzZiYmEiXSwic291cmNlc0NvbnRlbnQiOlsiLy8gZXh0cmFjdGVkIGJ5IG1pbmktY3NzLWV4dHJhY3QtcGx1Z2luXG5leHBvcnQge307Il0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./resources/assets/adminlte/plugins/sweetalert2/css/sweetalert2.scss\n");
+
+/***/ }),
+
+/***/ "./resources/assets/adminlte/plugins/sweetalert2/css/bootstrap-4.scss":
+/*!****************************************************************************!*\
+  !*** ./resources/assets/adminlte/plugins/sweetalert2/css/bootstrap-4.scss ***!
+  \****************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9yZXNvdXJjZXMvYXNzZXRzL2FkbWlubHRlL3BsdWdpbnMvc3dlZXRhbGVydDIvY3NzL2Jvb3RzdHJhcC00LnNjc3MuanMiLCJtYXBwaW5ncyI6IjtBQUFBIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vLy4vcmVzb3VyY2VzL2Fzc2V0cy9hZG1pbmx0ZS9wbHVnaW5zL3N3ZWV0YWxlcnQyL2Nzcy9ib290c3RyYXAtNC5zY3NzP2M0MDMiXSwic291cmNlc0NvbnRlbnQiOlsiLy8gZXh0cmFjdGVkIGJ5IG1pbmktY3NzLWV4dHJhY3QtcGx1Z2luXG5leHBvcnQge307Il0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./resources/assets/adminlte/plugins/sweetalert2/css/bootstrap-4.scss\n");
 
 /***/ }),
 
@@ -510,7 +576,13 @@ eval("// shim for using process in browser\nvar process = module.exports = {};\n
 /******/ 		// [resolve, reject, Promise] = chunk loading, 0 = chunk loaded
 /******/ 		var installedChunks = {
 /******/ 			"/js/app": 0,
-/******/ 			"css/app": 0
+/******/ 			"assets/plugins/sweetalert2/css/bootstrap-4": 0,
+/******/ 			"assets/plugins/sweetalert2/css/sweetalert2": 0,
+/******/ 			"assets/adminlte/css/app": 0,
+/******/ 			"css/app": 0,
+/******/ 			"assets/plugins/datatables/responsive/css/dataTables.responsive": 0,
+/******/ 			"assets/plugins/datatables/bs4/css/datatables.bs4": 0,
+/******/ 			"assets/adminlte/css/app-custom": 0
 /******/ 		};
 /******/ 		
 /******/ 		// no chunk on demand loading
@@ -558,8 +630,14 @@ eval("// shim for using process in browser\nvar process = module.exports = {};\n
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module depends on other loaded chunks and execution need to be delayed
-/******/ 	__webpack_require__.O(undefined, ["css/app"], () => (__webpack_require__("./resources/js/app.js")))
-/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["css/app"], () => (__webpack_require__("./resources/sass/app.scss")))
+/******/ 	__webpack_require__.O(undefined, ["assets/plugins/sweetalert2/css/bootstrap-4","assets/plugins/sweetalert2/css/sweetalert2","assets/adminlte/css/app","css/app","assets/plugins/datatables/responsive/css/dataTables.responsive","assets/plugins/datatables/bs4/css/datatables.bs4","assets/adminlte/css/app-custom"], () => (__webpack_require__("./resources/js/app.js")))
+/******/ 	__webpack_require__.O(undefined, ["assets/plugins/sweetalert2/css/bootstrap-4","assets/plugins/sweetalert2/css/sweetalert2","assets/adminlte/css/app","css/app","assets/plugins/datatables/responsive/css/dataTables.responsive","assets/plugins/datatables/bs4/css/datatables.bs4","assets/adminlte/css/app-custom"], () => (__webpack_require__("./resources/sass/app.scss")))
+/******/ 	__webpack_require__.O(undefined, ["assets/plugins/sweetalert2/css/bootstrap-4","assets/plugins/sweetalert2/css/sweetalert2","assets/adminlte/css/app","css/app","assets/plugins/datatables/responsive/css/dataTables.responsive","assets/plugins/datatables/bs4/css/datatables.bs4","assets/adminlte/css/app-custom"], () => (__webpack_require__("./resources/assets/adminlte/css/app.scss")))
+/******/ 	__webpack_require__.O(undefined, ["assets/plugins/sweetalert2/css/bootstrap-4","assets/plugins/sweetalert2/css/sweetalert2","assets/adminlte/css/app","css/app","assets/plugins/datatables/responsive/css/dataTables.responsive","assets/plugins/datatables/bs4/css/datatables.bs4","assets/adminlte/css/app-custom"], () => (__webpack_require__("./resources/assets/adminlte/css/app-custom.scss")))
+/******/ 	__webpack_require__.O(undefined, ["assets/plugins/sweetalert2/css/bootstrap-4","assets/plugins/sweetalert2/css/sweetalert2","assets/adminlte/css/app","css/app","assets/plugins/datatables/responsive/css/dataTables.responsive","assets/plugins/datatables/bs4/css/datatables.bs4","assets/adminlte/css/app-custom"], () => (__webpack_require__("./resources/assets/adminlte/plugins/sweetalert2/css/sweetalert2.scss")))
+/******/ 	__webpack_require__.O(undefined, ["assets/plugins/sweetalert2/css/bootstrap-4","assets/plugins/sweetalert2/css/sweetalert2","assets/adminlte/css/app","css/app","assets/plugins/datatables/responsive/css/dataTables.responsive","assets/plugins/datatables/bs4/css/datatables.bs4","assets/adminlte/css/app-custom"], () => (__webpack_require__("./resources/assets/adminlte/plugins/sweetalert2/css/bootstrap-4.scss")))
+/******/ 	__webpack_require__.O(undefined, ["assets/plugins/sweetalert2/css/bootstrap-4","assets/plugins/sweetalert2/css/sweetalert2","assets/adminlte/css/app","css/app","assets/plugins/datatables/responsive/css/dataTables.responsive","assets/plugins/datatables/bs4/css/datatables.bs4","assets/adminlte/css/app-custom"], () => (__webpack_require__("./resources/assets/adminlte/plugins/datatables/bs4/css/datatables.bs4.scss")))
+/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["assets/plugins/sweetalert2/css/bootstrap-4","assets/plugins/sweetalert2/css/sweetalert2","assets/adminlte/css/app","css/app","assets/plugins/datatables/responsive/css/dataTables.responsive","assets/plugins/datatables/bs4/css/datatables.bs4","assets/adminlte/css/app-custom"], () => (__webpack_require__("./resources/assets/adminlte/plugins/datatables/responsive/css/dataTables.responsive.scss")))
 /******/ 	__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
 /******/ 	
 /******/ })()

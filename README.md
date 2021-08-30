@@ -18,3 +18,24 @@ By default, we include some package for easy development and use.
 - [Debugbar](https://github.com/barryvdh/laravel-debugbar).
 - [Log Viewer](https://github.com/ARCANEDEV/LogViewer).
 - [Laravel Helper](https://github.com/laravel/helpers).
+
+## Getting Started
+
+Follow instruction below, to star using SIABAS
+
+- Clone this repo
+```
+git clone git@github.com:SIAJI-Labs/siabas.git
+```
+- Install package via composer
+```
+composer install
+```
+- Copy .env.example to .env
+```
+cp .env.example .env
+```
+- Generate new Laravel App Key
+```
+php artisan key:generate
+```
